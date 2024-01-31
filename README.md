@@ -13,12 +13,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar Santiago Diaz Gonzalez&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Omar Santiago Diaz Gonzalez&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Omar Santiago Diaz Gonzalez&theme=algolia&no-frame=false&no-bg=true&margin-w=4) 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Omar Santiago Diaz Gonzalez&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Omar Santiago Diaz Gonzalez&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Omar Santiago Diaz Gonzalez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
